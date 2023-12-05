@@ -4,3 +4,9 @@
 - Je presečišče računalniških znanosti, psihologije, ergonomije, inženirstva in grafičnega načrtovanja
 - Je širok pojem, ki pokriva vse asprekte načinov na katere so ljudje v interakciji z računalniki
 - Je disciplina, ki se ukvarja z načrtovanjem, vrednotenjem in implementacijo interaktivnih računalniških sistemov za človekovo uporabo in s šrudijami glavnih fenomenov, ki spremljajo te sisteme
+
+- Ljudje za interakcijo z računalnikom uporabljajo uporabniški vmesnik (UV)
+- Vmesnik (interface) je mesto kjer se srečujejo in delujejo neodvicni sistemi, ki med seboj lahko komunicirajo
+- Uporabniški vmesnik je mesto, ki združuje vhodne in izhodne naprave, programsko opremo in te resurse uporablja ter podpira:
+	- Vhod omogoča uporabiku manipulacijo s sistemom
+	- Izhod omogoča sistemu, da pokaže učinke uporabnikove manipulacije
