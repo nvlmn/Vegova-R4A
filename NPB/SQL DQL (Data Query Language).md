@@ -1,0 +1,1 @@
+Zajema stavek SELECT, spada pod DDL.

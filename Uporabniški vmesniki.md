@@ -1,0 +1,7 @@
+- Komunikacija med ljudmi in računalniki
+	- Komunikacija človek—računalnik (KČR) je študija o interakciji med ljudmi (uporabniki) in računalniki
+	- V angleščini Human-Computer Interaction (HCI, ali Man-Machine Interaction \[MMI])
+- Je presečišče računalniških znanosti, psihologije, ergonomije, inženirstva in grafičnega načrtovanja
+- Je širok pojem, ki pokriva vse asprekte načinov na katere so ljudje v interakciji z računalniki
+- Je disciplina, ki se ukvarja z načrtovanjem, vrednotenjem in implementacijo interaktivnih računalniških sistemov za človekovo uporabo in s šrudijami glavnih fenomenov, ki spremljajo te sisteme
+- 

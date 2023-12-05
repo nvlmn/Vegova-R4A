@@ -1,0 +1,3 @@
+[[REGISTRI]]
+[[TIMERJI]]
+[[INTERRUPTI]]

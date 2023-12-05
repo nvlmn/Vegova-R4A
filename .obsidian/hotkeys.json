@@ -1,0 +1,12 @@
+{
+  "markdown:toggle-preview": [],
+  "meld-calc:encrypt-calc": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}

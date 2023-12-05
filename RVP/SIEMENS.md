@@ -1,0 +1,5 @@
+[[REGISTRI]]
+[[TIMERJI]]
+[[INTERRUPTI]]
+
+[[STEP 7]]
