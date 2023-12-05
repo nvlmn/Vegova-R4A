@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9521b058c07e84e0",
+        "id": "cbdc0fdb558edca8",
         "type": "tabs",
         "children": [
           {
-            "id": "c28f514f2f955b79",
+            "id": "bdb2e39d08afc73c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uporabniški vmesniki.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Uporabniški vmesniki.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Uporabniški vmesniki.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Uporabniški vmesniki.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,10 +123,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28f514f2f955b79",
+  "active": "bdb2e39d08afc73c",
   "lastOpenFiles": [
-    "Uporabniški vmesniki.md",
     "PSI/Učenje in pomnjenje.md",
+    "Uporabniški vmesniki.md",
     "FIZ/Električni tok.md",
     "NSA/NSA.md"
   ]
