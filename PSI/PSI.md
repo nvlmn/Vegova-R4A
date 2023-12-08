@@ -9,3 +9,4 @@
 [[Osebnost]]
 [[Učenje in pomnjenje]]
 [[Ponavljanje pred 1. testom]]
+[[Mišljenje]]

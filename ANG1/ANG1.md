@@ -34,3 +34,4 @@ Glossary z besedami je v moodlu.
 [[ANG - Malware E-Mail]]
 [[SB - 90-4]]
 [[SB - 90-6]]
+[[ANG - Wishes]]

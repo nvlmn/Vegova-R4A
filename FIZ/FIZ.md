@@ -22,3 +22,5 @@ https://moodle2.vegova.si/mod/resource/view.php?id=13337
 [[Magnetna sila na vodniku]]
 [[FIZ ponavljanje]]
 [[Gostota magnetnega polja]]
+[[Inducirana napetost - naloge]]
+[[2.6. — Izmenična napetost]]

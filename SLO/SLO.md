@@ -37,3 +37,6 @@ Pisali bomo spis na neznano besedilo, da vadimo za maturo.
 [[SLO - DZ-2_2_37 - Sporočevalčev namen]]
 [[SLO - DZ-2_2_52]]
 [[SLO - 17. 10. 2023 - Zaposlitev]]
+[[Slovenska moderna - Oton Župančič - Duma]]
+[[Členitev po aktualnosti]]
+[[Glagolski način - Tvornik in trpnik]]

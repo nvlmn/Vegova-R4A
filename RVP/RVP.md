@@ -5,6 +5,8 @@
 [[Odprava odbojev na kontaktih]]
 [[Temperaturni senzor in ojačevalnik]]
 [[RVP - Primeri vprašanj za test]]
+[[Integrator]]
+[[Temperaturni senzor z ojačevalnikom - vezje]]
 ### Moodle ključ: R4A_skupinaX; X = a/b
 
 ## Ocenjevanja
