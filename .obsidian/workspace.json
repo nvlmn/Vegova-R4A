@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b9d37f62f4058937",
+        "id": "11271e43f87c8e78",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd7798ac55ef10b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ca51191f583c941d",
+            "id": "e9a1e66040aac0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RVP/Integrator.md",
+                "file": "RAO/Uporabniški vmesniki.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RVP/Integrator.md",
+                "file": "RAO/Uporabniški vmesniki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RVP/Integrator.md",
+                "file": "RAO/Uporabniški vmesniki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RVP/Integrator.md"
+                "file": "RAO/Uporabniški vmesniki.md"
               }
             }
           }
@@ -155,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca51191f583c941d",
+  "active": "e9a1e66040aac0d6",
   "lastOpenFiles": [
+    "RVP/Integrator.md",
     "MAT/MAT.md",
     "SLO/SLO.md",
     "RVP/RVP.md",
@@ -165,7 +157,6 @@
     "SLO/Slovenska moderna - Oton Župančič - Duma.md",
     "ANG1/ANG1.md",
     "PSI/PSI.md",
-    "RVP/Integrator.md",
     "Pasted image 20231208114139.png",
     "Pasted image 20231208114112.png",
     "Domače naloge.md"
