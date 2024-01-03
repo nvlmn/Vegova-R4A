@@ -7,6 +7,7 @@
 [[RVP - Primeri vprašanj za test]]
 [[Integrator]]
 [[Temperaturni senzor z ojačevalnikom - vezje]]
+[[Omejevalnik napetosti]]
 ### Moodle ključ: R4A_skupinaX; X = a/b
 
 ## Ocenjevanja
